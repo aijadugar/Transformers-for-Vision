@@ -1,6 +1,6 @@
-# 🧠 Diffusers with PyTorch
+# 🧠 Vision with PyTorch
 
-A collection of popular diffusers architectures implemented from scratch using the **PyTorch** framework.
+A collection of popular vision model architectures implemented from scratch using the **PyTorch** framework.
 
 The trained model weights for each architecture are available on Hugging Face.
 
@@ -10,9 +10,7 @@ The trained model weights for each architecture are available on Hugging Face.
 
 | Model                        | Notebook          | Trained Model                                                                                                |
 | ---------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------ |
-| DDPM-MNIST-Diffusers         | [`diffusers.ipynb`](./diffusers.ipynb)     | [https://huggingface.co/aijadugar/DDPM-MNIST-Diffusers](https://huggingface.co/aijadugar/DDPM-MNIST-Diffusers)             |
-| GAN-MNIST                        | [`gan-mnist.ipynb`](./gan_mnist.ipynb)   |    NOT AVAILABLE      |
-| VAE-MNIST                        | [`vae-mnist.ipynb`](./vae-mnist.ipynb)   |    NOT AVAILABLE      |
+| ViT-ADE20k-Segmentation         | [`vit-ade20k-segmentation.ipynb`](./vit-ade20k-segmentation.ipynb)     | [https://huggingface.co/aijadugar/ViT-ADE20K-Segmentation](https://huggingface.co/aijadugar/ViT-ADE20K-Segmentation)             |
 
 ---
 
